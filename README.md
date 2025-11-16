@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/pratyush4932"><img title="Editor" src="https://img.shields.io/badge/Editor-Nocturno-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nocturno-MD"><img title="Editor" src="https://img.shields.io/badge/Editor-Nocturno-red.svg?style=for-the-badge&logo=github"></a>
 </p>
  <a href="https://github.com/EternityBots/Nezuko/blob/main/LICENSE">
   

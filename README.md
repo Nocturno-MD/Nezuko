@@ -2,7 +2,7 @@
 <a href="https://postimg.cc/cvRzCzH0" target="_blank">
   <img src="https://i.postimg.cc/Z52z7tzB/Makima-readme1.png" 
        alt="Makima" 
-       width="500" 
+       width="450" 
        style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 </a>
 

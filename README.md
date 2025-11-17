@@ -54,7 +54,7 @@ Nezuko is free and open-source software licensed under the [GNU Affero General P
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EternityBots/Nezuko)
 
 ## 🐧 Linux Auto Install
-
+Note to download Baileys version 18 instead of 20 so as to avoid qr issues, update for 20 will be made
 ```
 bash <(curl -L https://github.com/EternityBots/nezuko-bash/raw/main/install.sh)
 ```
